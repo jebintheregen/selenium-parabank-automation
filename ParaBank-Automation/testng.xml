@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite thread-count="1" parallel="methods" name="Suite">
+  <test thread-count="1" parallel="methods" name="Test">
+    <classes>
+      <class name="testcases.parabank.LoanRequestTest"/>
+      <class name="testcases.parabank.RegiaterTest"/>
+      <class name="testcases.parabank.LoginTest"/>
+      <class name="testcases.parabank.FundTransferTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

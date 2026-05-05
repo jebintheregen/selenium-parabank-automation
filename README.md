@@ -49,6 +49,8 @@ ParaBank-Automation
 ├── ScreenShots/
 │   ├── LoginTest.png
 │   ├── RegisterTest.png
+│   ├── FundTransferTest.png   
+│   ├── LoanRequestTest.png
 │
 ├── pom.xml
 ├── testng.xml
